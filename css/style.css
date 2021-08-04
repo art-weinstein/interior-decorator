@@ -9,9 +9,17 @@ img {
   float: left;
   margin-left:10px;
   margin-right:10px;
-  text-align: center;
-  display: grid;
+  padding: 8px;
 }
 .logo {
   float: left;
+}
+.before {
+  background-color: bisque;
+}
+.during {
+  background-color: lightblue;
+}
+.after{
+  background-color: lightpink;
 }
